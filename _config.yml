@@ -1,0 +1,28 @@
+name: ksDiary
+favicon: null
+layout_spectrum: 0.18452066532336175
+typography_spectrum: 0.8493041847832501
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.730353495106101
+  lightness: 0.38429202837869525
+  saturation: 0.7214382323436439
+  rhythmicContrast: 0.588636739179492
+purpose: []

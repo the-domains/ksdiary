@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ksDiary]]></title>
+        <description><![CDATA[ksDiary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 16:43:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Never ending crashes on InDesign. What can we do to fix it?</p>]]></description>
+            <link>undefinednever-ending-crashes-on-indesign-what-can-we-do-to-fix-it/index.html</link>
+            <guid isPermaLink="false">7b39889b-a060-41f6-8cb0-6feebb0fbbe2</guid>
+            <pubDate>Wed, 27 Apr 2016 16:43:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
